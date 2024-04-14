@@ -31,7 +31,7 @@ body {
     left: 42px;
     z-index: 2;
 
-    background: url(dinoVerde.png) repeat-x 0px 0px;
+    background: url(recursos/dinoVerde.png) repeat-x 0px 0px;
     background-size: 336px 84px;
     background-position-x: 0px;
 
@@ -54,7 +54,7 @@ body {
     bottom: 0;
     left: 0;
 
-    background: url(suelo.png) repeat-x 0px 0px;
+    background: url(recursos/suelo.png) repeat-x 0px 0px;
     background-size: 50% 42px;
 }
 
@@ -83,7 +83,7 @@ body {
     left: 600px;
     z-index: 1;
 
-    background: url(cactus1.png) no-repeat;
+    background: url(recursos/cactus1.png) no-repeat;
 }
 
 .game-over{
